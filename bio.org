@@ -1,0 +1,72 @@
+* Version 1
+Pilar Andrea Quiroz is an international theatre performer based in
+Germany. Originally from Colombia, she moved to Paris to study at the school of
+Jaques Lecoq. After completing her first year she continued her training
+at Ecole Philippe Gaulier where she graduated from the 2 year program.
+
+Pilar is also a founding member of the Cultural Association Trastorno Obsesivo
+Teatral, a theatre group based in Bogota that makes plays that explore
+psychology.  She also participated in Ubuntu, a group of people that creates
+performances from theatre, dance and acrobatics.
+** Notes on v.1
+
+
+
+Plays about problems of the mind (suicide, schizophrenia): interested in
+exploring human behavior and problems of the mind.
+
+Ubuntu: acrobatics as a metaphor conflict. Everything is intension, and you
+need to find the balance. Dances/choreographies with theme of, conflict and
+balance, the body as a metaphor.
+
+* Version 2
+Pilar Andrea Quiroz is an international theatre performer currently based in
+Germany. Originally from Colombia, she moved to Paris to study the art of
+theatre at Ecole Jacques Lecoq. After completing her first year there, she
+continued her training at Ecole Philippe Gaulier, where she graduated from the
+2 year program.
+
+Additionally, while still in Colombia, Pilar helped found and administer
+Cultural Association Trastorno Obsesivo Teatral. There she performed in many
+plays, all centered around exploring aspect of human psychology. She also
+codirected one play and was the Communications Manager for the group during the
+time she was in Colombia.
+
+During this same time she joined Ubuntu, a group of actors, artists, and
+acrobats that created and performed physical theatre pieces involving dance and
+acrobatics. These pieces explored the human body as a metaphor for conflict and
+balance.
+
+* Version 3
+Pilar Andrea Quiroz is an international theatre performer currently based in
+Germany. Originally from Colombia, she moved to Paris to study theatre at Ecole
+Jacques Lecoq. After completing her first year she continued her training at
+Ecole Philippe Gaulier, where she graduated from the 2 year program.
+
+Pilar also helped found and administer the Cultural Association Trastorno
+Obsesivo Teatral, a theater group based in Bogota and Ubuntu a group of actors,
+artists, and acrobats that create physical theatre pieces involving dance and
+acrobatics exploring the human body as a metaphor for conflict and balance
+
+** Template to match
+Graduated at École Internationale de Théatre Jacques Lecoq in Paris and
+previously at the Escola Superior d’Art Dramàtic Eòlia in Barcelona.
+
+Born in 1988 in Barcelona, she participates in films such as Otros días vendrán
+directed by Eduard Cortés, Forasters by Ventura Pons and the shortfilm Refugio
+115 directed by Ivan Villamel.
+
+She is member and co-founder of the theatre company Batallerus Teatre with whom
+she performed in Sopar amb Batalla written and directed by Jordi Casanovas.
+
+* Version 4
+Pilar Andrea Quiroz is an international theatre performer currently based in
+Germany. Originally from Colombia, she moved to Paris to study theatre at Ecole
+Jacques Lecoq. After one year there, she went on to graduate from the 2 year
+program at Ecole Philippe Gaulier.
+
+Pilar is also one of the founding members and administrators of the Cultural
+Association Trastorno Obsesivo Teatral, a theatre group in Bogota, and Ubuntu,
+a group of actors, artists, and acrobats that create physical theatre using
+dance and acrobatics to explore the human body as a metaphor for conflict and
+balance.
